@@ -1,0 +1,88 @@
+[30-Oct-2024 07:12:12 UTC] PHP Notice:  Undefined variable: subject in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 11
+[30-Oct-2024 07:12:12 UTC] PHP Notice:  Undefined variable: headers in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
+[01-Feb-2025 10:44:54 UTC] PHP Notice:  Undefined variable: subject in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 11
+[01-Feb-2025 10:44:54 UTC] PHP Notice:  Undefined variable: headers in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
+[21-Mar-2025 23:02:24 UTC] PHP Notice:  Undefined variable: subject in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 11
+[21-Mar-2025 23:02:24 UTC] PHP Notice:  Undefined variable: headers in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
+[08-Apr-2025 07:47:24 UTC] PHP Notice:  Undefined variable: subject in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 11
+[08-Apr-2025 07:47:24 UTC] PHP Notice:  Undefined variable: headers in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
+[19-Apr-2025 13:50:27 UTC] PHP Notice:  Undefined index: CF-Connecting-IP in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[19-Apr-2025 13:50:27 UTC] PHP Notice:  Undefined index: cf-connecting-ip in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[19-Apr-2025 13:50:27 UTC] PHP Notice:  Undefined index: x-forwarded-for in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 4
+[19-Apr-2025 13:50:27 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
+[05-May-2025 16:04:40 UTC] PHP Notice:  Undefined index: CF-Connecting-IP in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[05-May-2025 16:04:40 UTC] PHP Notice:  Undefined index: cf-connecting-ip in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[05-May-2025 16:04:40 UTC] PHP Notice:  Undefined index: x-forwarded-for in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 4
+[05-May-2025 16:04:40 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
+[05-May-2025 16:04:40 UTC] PHP Notice:  Undefined variable: subject in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 18
+[05-May-2025 16:04:40 UTC] PHP Notice:  Array to string conversion in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 19
+[24-May-2025 04:05:35 UTC] PHP Notice:  Undefined index: CF-Connecting-IP in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[24-May-2025 04:05:35 UTC] PHP Notice:  Undefined index: cf-connecting-ip in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[24-May-2025 04:05:35 UTC] PHP Notice:  Undefined index: x-forwarded-for in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 4
+[24-May-2025 04:05:35 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
+[24-May-2025 04:05:35 UTC] PHP Notice:  Undefined variable: subject in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 18
+[24-May-2025 04:05:35 UTC] PHP Notice:  Array to string conversion in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 19
+[24-May-2025 21:32:15 UTC] PHP Notice:  Undefined index: CF-Connecting-IP in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[24-May-2025 21:32:15 UTC] PHP Notice:  Undefined index: cf-connecting-ip in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[24-May-2025 21:32:15 UTC] PHP Notice:  Undefined index: x-forwarded-for in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 4
+[24-May-2025 21:32:15 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
+[24-May-2025 21:32:15 UTC] PHP Notice:  Undefined variable: subject in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 18
+[24-May-2025 21:32:15 UTC] PHP Notice:  Array to string conversion in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 19
+[30-May-2025 05:24:22 UTC] PHP Notice:  Undefined index: CF-Connecting-IP in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[30-May-2025 05:24:22 UTC] PHP Notice:  Undefined index: cf-connecting-ip in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[30-May-2025 05:24:22 UTC] PHP Notice:  Undefined index: x-forwarded-for in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 4
+[30-May-2025 05:24:22 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
+[30-May-2025 05:24:22 UTC] PHP Notice:  Undefined variable: subject in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 18
+[30-May-2025 05:24:22 UTC] PHP Notice:  Array to string conversion in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 19
+[09-Jul-2025 08:24:55 UTC] PHP Notice:  Undefined index: CF-Connecting-IP in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[09-Jul-2025 08:24:55 UTC] PHP Notice:  Undefined index: cf-connecting-ip in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[09-Jul-2025 08:24:55 UTC] PHP Notice:  Undefined index: x-forwarded-for in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 4
+[09-Jul-2025 08:24:55 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
+[09-Jul-2025 08:24:55 UTC] PHP Notice:  Undefined variable: subject in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 18
+[09-Jul-2025 08:24:55 UTC] PHP Notice:  Array to string conversion in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 19
+[09-Jul-2025 13:12:22 UTC] PHP Notice:  Undefined index: CF-Connecting-IP in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[09-Jul-2025 13:12:22 UTC] PHP Notice:  Undefined index: cf-connecting-ip in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[09-Jul-2025 13:12:22 UTC] PHP Notice:  Undefined index: x-forwarded-for in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 4
+[09-Jul-2025 13:12:22 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
+[09-Jul-2025 13:12:23 UTC] PHP Notice:  Undefined variable: subject in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 18
+[09-Jul-2025 13:12:23 UTC] PHP Notice:  Array to string conversion in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 19
+[04-Aug-2025 12:02:25 UTC] PHP Notice:  Undefined index: CF-Connecting-IP in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[04-Aug-2025 12:02:25 UTC] PHP Notice:  Undefined index: cf-connecting-ip in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[04-Aug-2025 12:02:25 UTC] PHP Notice:  Undefined index: x-forwarded-for in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 4
+[04-Aug-2025 12:02:25 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
+[04-Aug-2025 12:02:26 UTC] PHP Notice:  Undefined variable: subject in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 18
+[04-Aug-2025 12:02:26 UTC] PHP Notice:  Array to string conversion in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 19
+[06-Aug-2025 15:19:20 UTC] PHP Notice:  Undefined index: CF-Connecting-IP in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[06-Aug-2025 15:19:20 UTC] PHP Notice:  Undefined index: cf-connecting-ip in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[06-Aug-2025 15:19:20 UTC] PHP Notice:  Undefined index: x-forwarded-for in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 4
+[06-Aug-2025 15:19:20 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
+[06-Aug-2025 15:19:20 UTC] PHP Notice:  Undefined variable: subject in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 18
+[06-Aug-2025 15:19:20 UTC] PHP Notice:  Array to string conversion in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 19
+[19-Sep-2025 06:43:27 UTC] PHP Notice:  Undefined index: CF-Connecting-IP in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[19-Sep-2025 06:43:27 UTC] PHP Notice:  Undefined index: cf-connecting-ip in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[19-Sep-2025 06:43:27 UTC] PHP Notice:  Undefined index: x-forwarded-for in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 4
+[19-Sep-2025 06:43:27 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
+[19-Sep-2025 06:43:27 UTC] PHP Notice:  Undefined variable: subject in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 18
+[19-Sep-2025 06:43:27 UTC] PHP Notice:  Array to string conversion in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 19
+[19-Sep-2025 08:55:56 UTC] PHP Notice:  Undefined index: CF-Connecting-IP in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[19-Sep-2025 08:55:56 UTC] PHP Notice:  Undefined index: cf-connecting-ip in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[19-Sep-2025 08:55:56 UTC] PHP Notice:  Undefined index: x-forwarded-for in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 4
+[19-Sep-2025 08:55:56 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
+[19-Sep-2025 08:55:56 UTC] PHP Notice:  Undefined variable: subject in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 18
+[19-Sep-2025 08:55:56 UTC] PHP Notice:  Array to string conversion in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 19
+[14-Oct-2025 19:03:13 UTC] PHP Notice:  Undefined index: CF-Connecting-IP in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[14-Oct-2025 19:03:13 UTC] PHP Notice:  Undefined index: cf-connecting-ip in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[14-Oct-2025 19:03:13 UTC] PHP Notice:  Undefined index: x-forwarded-for in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 4
+[14-Oct-2025 19:03:13 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
+[14-Oct-2025 19:03:13 UTC] PHP Notice:  Undefined variable: subject in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 18
+[14-Oct-2025 19:03:13 UTC] PHP Notice:  Array to string conversion in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 19
+[27-Oct-2025 06:53:06 UTC] PHP Notice:  Undefined index: CF-Connecting-IP in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[27-Oct-2025 06:53:06 UTC] PHP Notice:  Undefined index: cf-connecting-ip in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[27-Oct-2025 06:53:06 UTC] PHP Notice:  Undefined index: x-forwarded-for in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 4
+[27-Oct-2025 06:53:06 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
+[27-Oct-2025 06:53:06 UTC] PHP Notice:  Undefined variable: subject in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 18
+[27-Oct-2025 06:53:06 UTC] PHP Notice:  Array to string conversion in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 19
+[27-Oct-2025 06:53:07 UTC] PHP Notice:  Undefined index: CF-Connecting-IP in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[27-Oct-2025 06:53:07 UTC] PHP Notice:  Undefined index: cf-connecting-ip in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 3
+[27-Oct-2025 06:53:07 UTC] PHP Notice:  Undefined index: x-forwarded-for in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 4
+[27-Oct-2025 06:53:07 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/hrdesynz/public_html/kidzkollege.co.tz/sendmail.php on line 12
