@@ -1,0 +1,21 @@
+{
+  "name": "kidz-kollege-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "minify:css": "npx clean-css-cli -o css/main.min.css css/main.css || true",
+    "minify:js": "npx terser js/script.js -o js/script.min.js -c -m || true",
+    "optimize:images": "npx imagemin \"images/**/*.{jpg,png,svg,gif}\" --out-dir=images/optimized || true",
+    "add:lazy": "node scripts/add-lazy.js",
+    "lint": "npx eslint . --ext .js || true",
+    "format": "npx prettier --write . || true",
+    "prepare": "npm run minify:css && npm run minify:js && npm run optimize:images"
+  },
+  "devDependencies": {
+    "clean-css-cli": "^5.4.2",
+    "terser": "^5.18.0",
+    "imagemin-cli": "^7.0.1",
+    "eslint": "^8.48.0",
+    "prettier": "^3.0.0"
+  }
+}
